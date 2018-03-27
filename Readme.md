@@ -14,7 +14,7 @@ Level of Difficulty: Easy
 
 ### Stage 1: MostMethodsAreInThisClass
 1) Create a class called MostMethodsAreInThisClass
-2) Create a method in Thing named as willConvertToUpperCase which will take a list of String as input and it will 
+2) Create a method named willConvertToUpperCase which will take a list of String as input and it will 
 output a list of Strings
 3) The method willConvertToUpperCase should be able to return all the objects in the list in UPPERCASE
 
