@@ -42,6 +42,8 @@ IntSummaryStatistics
     c) return the minimum of the numbers in the list                                                                         
     d) return the maximum of the numbers in the list                                                                         
     e) return the average of the numbers in the list
+    
+_**Suggestion: All these computations should be accomplished by the method summaryStats ** 
 
 ### Stage 5:
 1) Create a class called Name
