@@ -35,7 +35,7 @@ one list.
 ### Stage 4:
 1) In the class MostMethodsAreInThisClass
 2) Create a method called summaryStats which will take a list of Integers as input and will return 
-a double
+IntSummaryStatistics
 3) The method summaryStats should be able to                                                                         
     a) return the sum of numbers                                                                         
     b) return the number of numbers in the list                                                                         
